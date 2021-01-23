@@ -1,0 +1,32 @@
+{
+  "uid": "zPAXY22YgfB0ZsUw1iQi",
+  "name": "snippets",
+  "canonical": "",
+  "privatePrefixes": [
+    "_",
+    "."
+  ],
+  "slugOpts": {
+    "bare": false,
+    "spaceReplacement": "-",
+    "stripSequentialSpace": true,
+    "validSeparators": [
+      "-",
+      "_"
+    ],
+    "toLower": true,
+    "datePrefixFormats": [
+      "2006-01-02",
+      "20060102"
+    ],
+    "stripPrefixes": [
+      "-",
+      "_",
+      " "
+    ],
+    "alphaNumOnly": false,
+    "numPrefixIsOrder": true
+  },
+  "compact": true,
+  "syncSetProcessors": 5
+}

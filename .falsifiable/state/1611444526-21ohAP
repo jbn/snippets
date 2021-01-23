@@ -1,0 +1,34 @@
+{
+  "event": [
+    {
+      "kind": "put",
+      "at": "2021-01-23T23:21:03.895948156Z",
+      "sr": {
+        "path": [
+          "conda-env-setup.ipynb"
+        ],
+        "hash": "zQmdcjrRYwUenhkmy8dimidaWmKyWnrv5A3dMfttguzSf7G",
+        "slug": {
+          "path": "/snippets/conda-env-setup",
+          "order": 0
+        },
+        "title": ""
+      }
+    },
+    {
+      "kind": "put",
+      "at": "2021-01-23T23:28:46.912238883Z",
+      "sr": {
+        "path": [
+          "conda-env-setup.ipynb"
+        ],
+        "hash": "zQmXgcoEMKdjGpo2qqrK9PtoTxpqQa1gYjMgPP1QPTHBCj8",
+        "slug": {
+          "path": "/snippets/conda-env-setup",
+          "order": 0
+        },
+        "title": ""
+      }
+    }
+  ]
+}
